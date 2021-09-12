@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "quantity": 100,
+      "price": 21300,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "quantity": 56,
+      "price": 50000,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Merkel",
+      "price": 999,
+      "quantity": 32,
+      "selected": true,
+      "available": false
+    }
+  ]
+}
